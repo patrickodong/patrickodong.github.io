@@ -9,7 +9,7 @@
 <body>
     <header>
         <div class="profile">
-            <img src="profile.jpg" alt="Profile Picture" class="profile-pic">
+            <img src="profile.png" alt="Profile Picture" class="profile-pic">
             <h1>Dr. [Your Name]</h1>
             <p>Position | Institution | Area of Expertise</p>
         </div>
